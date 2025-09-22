@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Android_25-2</string>
+    <string name="message_button_count">"COUNT"</string>
+    <string name="message_button_toast">"TOAST"</string>
+    <string name="message_button_random">"RANDOM"</string>
+    <string name="toast_message">"Boink"</string>
 </resources>
