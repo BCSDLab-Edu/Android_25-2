@@ -9,6 +9,7 @@ appcompat = "1.7.1"
 material = "1.12.0"
 activity = "1.11.0"
 constraintlayout = "2.2.1"
+fragment_version = "1.8.9"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
