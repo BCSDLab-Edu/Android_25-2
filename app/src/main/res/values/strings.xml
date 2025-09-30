@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android_25-2</string>
+    <string name="editText_hint">add</string>
+    <string name="dialog_title">Delet</string>
+    <string name="dialog_message">Sure?</string>
+    <string name="dialog_positive_message">Yes</string>
+    <string name="dialog_negative_message">No</string>
 </resources>
